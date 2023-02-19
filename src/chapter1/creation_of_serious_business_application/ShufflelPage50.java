@@ -12,7 +12,7 @@ public class ShufflelPage50 {
             System.out.print("-");
 
             if (x == 2) {
-                System.out.print("b,c");
+                System.out.print("b c");
             }
 
             if (x == 1) {
