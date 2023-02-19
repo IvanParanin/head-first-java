@@ -1,6 +1,6 @@
 package chapter1.creation_of_serious_business_application;
 
-public class classShufflel {
+public class ShufflelPage50 {
     public static void main (String[] args) {
         int x = 3;
 
